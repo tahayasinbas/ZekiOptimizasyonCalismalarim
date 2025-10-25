@@ -1,0 +1,2 @@
+# ZekiOptimizasyonCalismalarim
+Algoritmalar
